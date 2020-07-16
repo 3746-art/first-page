@@ -156,7 +156,9 @@ header {
   padding-bottom: 80px;
   text-align: center;
 }
-
+.message-wrapper h2 {
+  text-align: left;
+}
 .message {
   padding: 15px 40px;
   background-color: #5dca88;
