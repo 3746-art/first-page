@@ -12,6 +12,7 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://lh3.googleusercontent.com/proxy/_ef7JLr3tF_RpCgVHZB4jnvWJt0pXANxtC-6hEUSPfGfWlW_2vclF0rDFDPV0brk-1TYmnIffBfNzACDy3RFJutlcjbFup0y6Jm2t1jdklZwTNviLTvZWpKuQsZJM6byY81OUBfjr5q-408FXJwZQaQ);
@@ -83,7 +84,6 @@ header {
   height: 65px;
   width: 100px;
   margin: 0px;
-  object-fit: cover;
 }
 
 .header-left {
