@@ -119,6 +119,10 @@ header {
   text-align: center;
 }
 
+.headings h2 {
+  font-weight: normal;
+}
+
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
